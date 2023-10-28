@@ -34,7 +34,7 @@ img {
 
 .container .description .title { 
     color: hsl(218, 44%, 22%);
-    margin: 20px 15px 15px 15px;
+    margin: 20px;
     font-weight: 700;
 }
 
@@ -42,6 +42,6 @@ img {
     font-size: 15px;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-    margin: 15px 15px 20px 15px;
+    margin: 20px;
 }
  
